@@ -120,7 +120,7 @@ a:hover{
 }
 
 footer {
-  position:absolute;
+  position:relative;
   bottom: -6%;
    display: flex;
    flex-wrap: wrap;
