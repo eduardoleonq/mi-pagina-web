@@ -112,20 +112,20 @@ a:hover{
   display:flex;
   flex-direction:column;
   align-items:cente: start;
-  gap:50px;
+  gap:50 px;
   padding: 50px;
 }
+
 footer {
   position:absolute;
   bottom: 0%;
-  z-index: -1%;
-  display: flex;
+   display: flex;
   flex-direction: column;
   align-items:center;
   justify-content: flex-end;
-  background-color: rgb(87, 154, 128);
+  background-color: rgb(238, 254, 21);
   text-align: center;
-  min-width: 720px;
+  min-width: 700px;
   
   
   
