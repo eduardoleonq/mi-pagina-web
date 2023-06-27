@@ -104,6 +104,9 @@ a:hover{
   justify-content: center;
 
 }
+.greeting {
+  text-align: center;
+}
 .video-container {
   
   display:flex;
