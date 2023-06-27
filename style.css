@@ -25,6 +25,8 @@
   body {
     
     background-color: rgb(245, 252, 253);
+    position:relative;
+    
     
    
 }
@@ -120,22 +122,21 @@ footer {
   position:absolute;
   bottom: -6%;
    display: flex;
+   flex-wrap: wrap;
   flex-direction: column;
   align-items:center;
   justify-content: flex-end;
   background-color: rgb(238, 254, 21);
   text-align: center;
   min-width: 700px;
-  
-  
-  
-}
+  }
+
 
 @media (max-width: 768px) {
   .column {
     flex: 100%;
   }
-
+}
 
   .nav-links {
     display: none;
